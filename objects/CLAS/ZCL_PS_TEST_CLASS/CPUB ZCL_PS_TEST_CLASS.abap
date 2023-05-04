@@ -1,0 +1,6 @@
+CLASS zcl_ps_test_class DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
