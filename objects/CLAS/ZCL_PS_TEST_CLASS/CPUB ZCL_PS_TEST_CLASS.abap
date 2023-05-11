@@ -4,3 +4,6 @@ CLASS zcl_ps_test_class DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+
+  METHODS: add.
+
