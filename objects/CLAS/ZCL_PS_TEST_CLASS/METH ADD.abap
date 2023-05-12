@@ -1,7 +1,4 @@
 METHOD add.
- data: a TYPE i, b TYPE i.
-
-
-  data(sum) = a + b.
+ data test type i.
 
 ENDMETHOD.
